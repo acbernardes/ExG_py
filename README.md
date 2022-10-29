@@ -1,4 +1,4 @@
-# Programa para calculo do Indice de Excesso de Verde (do Excess Green Index (ExG))
+# Programa para calculo do Indice de Excesso de Verde (Excess Green Index (ExG))
 
 ### Este índice faz a segmentação da imagem separando as plantas dos solos.
 
